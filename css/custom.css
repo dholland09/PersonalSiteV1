@@ -4,3 +4,10 @@ img.classmate {
     float: right;
     
 }
+
+img.mypic {
+    border-radius: 25%;
+    width: 100px;
+    float: right;
+    height: 150px;
+}
